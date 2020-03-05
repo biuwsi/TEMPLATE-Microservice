@@ -1,0 +1,7 @@
+{
+	"project_name": "E.g. api-system-management",
+	"app_name": "E.g. api-system-management",
+	"main_class_name": "E.g. SystemManagementApplication",
+	"base_package": "E.g. system/management",
+	"_copy_without_render": [".gradle", "gradle/", "*gradlew", "*gradlew.bat"]
+}

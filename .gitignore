@@ -1,0 +1,2 @@
+.idea
+{{cookiecutter.app_name}}/.gradle
